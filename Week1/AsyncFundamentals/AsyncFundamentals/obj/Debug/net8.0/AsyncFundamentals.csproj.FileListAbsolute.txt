@@ -1,0 +1,15 @@
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week1\AsyncFundamentals\AsyncFundamentals\bin\Debug\net8.0\AsyncFundamentals.exe
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week1\AsyncFundamentals\AsyncFundamentals\bin\Debug\net8.0\AsyncFundamentals.deps.json
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week1\AsyncFundamentals\AsyncFundamentals\bin\Debug\net8.0\AsyncFundamentals.runtimeconfig.json
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week1\AsyncFundamentals\AsyncFundamentals\bin\Debug\net8.0\AsyncFundamentals.dll
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week1\AsyncFundamentals\AsyncFundamentals\bin\Debug\net8.0\AsyncFundamentals.pdb
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week1\AsyncFundamentals\AsyncFundamentals\obj\Debug\net8.0\AsyncFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week1\AsyncFundamentals\AsyncFundamentals\obj\Debug\net8.0\AsyncFundamentals.AssemblyInfoInputs.cache
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week1\AsyncFundamentals\AsyncFundamentals\obj\Debug\net8.0\AsyncFundamentals.AssemblyInfo.cs
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week1\AsyncFundamentals\AsyncFundamentals\obj\Debug\net8.0\AsyncFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week1\AsyncFundamentals\AsyncFundamentals\obj\Debug\net8.0\AsyncFundamentals.sourcelink.json
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week1\AsyncFundamentals\AsyncFundamentals\obj\Debug\net8.0\AsyncFundamentals.dll
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week1\AsyncFundamentals\AsyncFundamentals\obj\Debug\net8.0\refint\AsyncFundamentals.dll
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week1\AsyncFundamentals\AsyncFundamentals\obj\Debug\net8.0\AsyncFundamentals.pdb
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week1\AsyncFundamentals\AsyncFundamentals\obj\Debug\net8.0\AsyncFundamentals.genruntimeconfig.cache
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week1\AsyncFundamentals\AsyncFundamentals\obj\Debug\net8.0\ref\AsyncFundamentals.dll
