@@ -1,0 +1,15 @@
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week2\MemoryManagement\MemoryManagement\bin\Debug\net8.0\MemoryManagement.exe
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week2\MemoryManagement\MemoryManagement\bin\Debug\net8.0\MemoryManagement.deps.json
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week2\MemoryManagement\MemoryManagement\bin\Debug\net8.0\MemoryManagement.runtimeconfig.json
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week2\MemoryManagement\MemoryManagement\bin\Debug\net8.0\MemoryManagement.dll
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week2\MemoryManagement\MemoryManagement\bin\Debug\net8.0\MemoryManagement.pdb
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week2\MemoryManagement\MemoryManagement\obj\Debug\net8.0\MemoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week2\MemoryManagement\MemoryManagement\obj\Debug\net8.0\MemoryManagement.AssemblyInfoInputs.cache
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week2\MemoryManagement\MemoryManagement\obj\Debug\net8.0\MemoryManagement.AssemblyInfo.cs
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week2\MemoryManagement\MemoryManagement\obj\Debug\net8.0\MemoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week2\MemoryManagement\MemoryManagement\obj\Debug\net8.0\MemoryManagement.sourcelink.json
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week2\MemoryManagement\MemoryManagement\obj\Debug\net8.0\MemoryManagement.dll
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week2\MemoryManagement\MemoryManagement\obj\Debug\net8.0\refint\MemoryManagement.dll
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week2\MemoryManagement\MemoryManagement\obj\Debug\net8.0\MemoryManagement.pdb
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week2\MemoryManagement\MemoryManagement\obj\Debug\net8.0\MemoryManagement.genruntimeconfig.cache
+C:\Users\v-suvyas\OneDrive - Microsoft\Desktop\DotNetFullStack\dotnet-prep\Week2\MemoryManagement\MemoryManagement\obj\Debug\net8.0\ref\MemoryManagement.dll
